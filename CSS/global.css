@@ -1,0 +1,13 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color :rgb(68, 94, 86);
+    color : rgba(255, 255, 255, 0.781);
+    max-width: 700px;
+    margin: 0 auto;
+    background-image: linear-gradient(to left, rgb(19, 63, 43), rgba(12, 12, 224, 0.377));
+}
+
+
+    a{
+        color: rgb(189, 0, 0);
+    }

@@ -1,0 +1,16 @@
+main{
+     padding: 20px;
+    padding-bottom: 40px;
+    background-color: rgba(68, 68, 82, 0.582);
+    min-height: 20vh;
+}
+section {
+    margin-bottom: 20px;
+}
+section h2 {
+    font-size: 19px;
+    text-transform: uppercase;
+    border-bottom: 2px solid #222;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
